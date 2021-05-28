@@ -1,4 +1,5 @@
 def add(x,y): //fixed
+	return x+y
 pass
 def substract(x,y):
 pass
